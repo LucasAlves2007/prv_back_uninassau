@@ -1,3 +1,6 @@
+aluno: Lucas Rafael da Silva Alves
+matricula: 01849525
+
 1- Qual a diferença entre git init e git clone? 
 git init cria um repositório local e o git clone faz uma cópia de um repositório já existente.
 
